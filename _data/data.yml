@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Weiran Huang
-    tagline: Computer Science Student
-    avatar: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Computer Science Under
+    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: huangweiran1998@outlook.com
@@ -34,14 +34,14 @@ sidebar:
     #    level: 
         
     interests:
-      - item: Football
+      - item: Data Mining
         link:
 
-      - item: Sci-Fi novels
+      - item: Python
         link:
 
-     # - item: 
-      #  link:
+      - item: Sci-Fi Novels 
+        link:
 
 career-profile:
     title: Career Profile
